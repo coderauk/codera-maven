@@ -8,7 +8,31 @@
 	<packaging>pom</packaging>
 	<version>0.0.1-SNAPSHOT</version>
 
-	<name>Codera Parent</name>
+	<name>${project.groupId}:${project.artifactId}</name>
+	<description>Parent pom file for Codera maven projects</description>
+	<url>https://github.com/coderauk/maven</url>
+
+	<licenses>
+		<license>
+			<name>GNU GENERAL PUBLIC LICENSE, Version 2</name>
+			<url>https://github.com/coderauk/maven/blob/master/LICENSE</url>
+		</license>
+	</licenses>
+
+	<developers>
+	    <developer>
+			<name>Andy Stewart</name>
+			<email>andy.stewart@codera.co.uk</email>
+			<organization>Codera</organization>
+			<organizationUrl>http://www.codera.co.uk</organizationUrl>
+	    </developer>
+  	</developers>
+
+	<scm>
+		<connection>scm:git:git@github.com:coderauk/maven.git</connection>
+		<developerConnection>scm:git:git@github.com:coderauk/maven.git</developerConnection>
+		<url>git@github.com:coderauk/maven.git</url>
+	</scm>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
