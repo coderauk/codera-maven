@@ -13,7 +13,7 @@
 
 	<licenses>
 		<license>
-			<name>GNU GENERAL PUBLIC LICENSE, Version 2</name>
+			<name>MIT License</name>
 			<url>https://github.com/coderauk/maven/blob/master/LICENSE</url>
 		</license>
 	</licenses>
