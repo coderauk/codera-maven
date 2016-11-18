@@ -53,6 +53,7 @@
 		<version.mockito>1.10.19</version.mockito>
 		<version.spring.boot>1.4.1.RELEASE</version.spring.boot>
 		<version.velocity>1.7</version.velocity>
+		<version.cucumber>1.2.4</version.cucumber>
 	</properties>
 
 	<build>
@@ -412,17 +413,17 @@
 			<dependency>
 				<groupId>info.cukes</groupId>
 				<artifactId>cucumber-java</artifactId>
-				<version>1.2.4</version>
+				<version>${version.cucumber}</version>
 			</dependency>
 			<dependency>
 				<groupId>info.cukes</groupId>
 				<artifactId>cucumber-junit</artifactId>
-				<version>1.2.4</version>
+				<version>${version.cucumber}</version>
 			</dependency>
 			<dependency>
 				<groupId>info.cukes</groupId>
 				<artifactId>cucumber-spring</artifactId>
-				<version>1.2.4</version>
+				<version>${version.cucumber}</version>
 			</dependency>
 			<dependency>
 				<groupId>org.seleniumhq.selenium</groupId>
