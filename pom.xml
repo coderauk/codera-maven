@@ -52,7 +52,7 @@
         <version.logback>1.1.7</version.logback>
         <version.mockito>1.10.19</version.mockito>
         <version.slf4j>1.7.12</version.slf4j>
-        <version.spring.boot>1.4.1.RELEASE</version.spring.boot>
+        <version.spring.boot>1.5.4.RELEASE</version.spring.boot>
         <version.velocity>1.7</version.velocity>
         <version.cucumber>1.2.4</version.cucumber>
     </properties>
