@@ -5,7 +5,7 @@
     <groupId>uk.co.codera</groupId>
     <artifactId>codera-parent</artifactId>
     <packaging>pom</packaging>
-    <version>0.0.31-SNAPSHOT</version>
+    <version>0.0.36-SNAPSHOT</version>
 
     <name>${project.artifactId}</name>
     <description>Parent pom file for Codera maven projects</description>
@@ -20,8 +20,8 @@
 
     <developers>
         <developer>
-            <name>Andy Stewart</name>
-            <email>andy.stewart@codera.co.uk</email>
+            <name>Codera Team</name>
+            <email>codera.release.user@codera.co.uk</email>
             <organization>Codera</organization>
             <organizationUrl>http://www.codera.co.uk</organizationUrl>
         </developer>
