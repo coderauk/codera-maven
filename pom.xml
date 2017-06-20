@@ -18,14 +18,14 @@
         </license>
     </licenses>
 
-    <developers>
+<!--     <developers>
         <developer>
             <name>Andy Stewart</name>
             <email>andy.stewart@codera.co.uk</email>
             <organization>Codera</organization>
             <organizationUrl>http://www.codera.co.uk</organizationUrl>
         </developer>
-    </developers>
+    </developers> -->
 
     <scm>
         <connection>scm:git:git@github.com:coderauk/maven.git</connection>
