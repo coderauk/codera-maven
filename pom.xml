@@ -5,7 +5,7 @@
     <groupId>uk.co.codera</groupId>
     <artifactId>codera-parent</artifactId>
     <packaging>pom</packaging>
-    <version>0.0.37</version>
+    <version>0.0.37-SNAPSHOT</version>
 
     <name>${project.artifactId}</name>
     <description>Parent pom file for Codera maven projects</description>
@@ -31,7 +31,7 @@
         <connection>scm:git:git@github.com:coderauk/maven.git</connection>
         <developerConnection>scm:git:git@github.com:coderauk/maven.git</developerConnection>
         <url>git@github.com:coderauk/maven.git</url>
-        <tag>codera-parent-0.0.37</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <modules>
