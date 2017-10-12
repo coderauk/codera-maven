@@ -35,7 +35,7 @@
     </scm>
 
     <modules>
--        <module>codera-maven-github</module>
+-       <module>codera-maven-github</module>
     </modules>
 
     <properties>
