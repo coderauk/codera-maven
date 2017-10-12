@@ -34,14 +34,10 @@
         <tag>HEAD</tag>
     </scm>
 
-    <modules>
-        <module>codera-maven-github</module>
-    </modules>
-
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <github.global.server>github</github.global.server>
-        <version.codera.formatter>0.0.3</version.codera.formatter>
+        <version.codera.formatter>0.0.4</version.codera.formatter>
         <version.commons.io>2.4</version.commons.io>
         <version.commons.lang3>3.4</version.commons.lang3>
         <version.dropwizard>1.0.5</version.dropwizard>
